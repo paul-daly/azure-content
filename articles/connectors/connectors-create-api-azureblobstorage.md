@@ -238,3 +238,4 @@ Updates a file in Azure Blob Storage.
 ## Next steps
 
 [Create a logic app](../app-service-logic/app-service-logic-create-a-logic-app.md).
+ 
